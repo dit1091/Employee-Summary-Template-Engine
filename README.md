@@ -12,9 +12,9 @@ A command-line application that dynamically generates a professional README.md f
  `npm install` 
 
 ## User Story
-`As A manager'
+As A manager
 I want to generate a webpage that displays my team's basic info
-so that I have quick access to emails and GitHub profiles`
+so that I have quick access to emails and GitHub profiles
 
 
 ## Usage 
