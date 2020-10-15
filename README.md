@@ -20,7 +20,7 @@ so that I have quick access to emails and GitHub profiles`
 ## Usage 
  `node index.js`
  
- ![DEMO](Team DEMO.gif)
+ ![DEMO](DEMO.gif)
 
 
 ## License 
