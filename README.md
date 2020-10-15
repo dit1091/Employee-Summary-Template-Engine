@@ -3,7 +3,6 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Table of Contents 
 * [Installation](#installation) 
-* [Badges](#badges) 
 * [Usage](#usage) 
 * [License](#license) 
 * [Questions](#questions) 
@@ -13,9 +12,9 @@ A command-line application that dynamically generates a professional README.md f
  `npm install` 
 
 ## User Story
-`As A manager
-I want to generate a webpage that displays my team's basic info
-so that I have quick access to emails and GitHub profiles`
+`As A manager'
+'I want to generate a webpage that displays my team's basic info'
+'so that I have quick access to emails and GitHub profiles`
 
 
 ## Usage 
